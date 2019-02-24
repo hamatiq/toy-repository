@@ -1,2 +1,2 @@
-reference link for learning git:
+reference link for learning git: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
