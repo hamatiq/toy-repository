@@ -1,5 +1,5 @@
 Group 27
 Brady Webb 
 Vic Willis
-Jon Bada
+Jon Basa
 Jack Wilke
